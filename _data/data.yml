@@ -54,12 +54,12 @@ education:
 
 experiences:
     - role: Senior Software Engineer/ AI R & D Lead	
-      time: 8/2024 - Current
+      time: 8/2023 - Current
       company: Coreus
       details: |
 
     - role: Software Developer I / II / III
-      time: 5/2018 - 5/2024
+      time: 5/2018 - 5/2023
       company: Optimum Energy
       details: |
 
@@ -92,7 +92,7 @@ skills:
 
       - name: Knowledge & Experience in Medicine
         level: 85%
-        
+
       - name: Ruby & Rails
         level: 95%
 

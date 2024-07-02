@@ -87,7 +87,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Empowering Others to Do Their Best Work
+      - name: Empowering Others
         level: 90%
 
       - name: Ruby & Rails
@@ -97,7 +97,7 @@ skills:
         level: 90%
 
       - name: DevOps
-        level: 85%
+        level: 75%
 
       - name: Compassionate Communication
         level: 92%
@@ -111,11 +111,6 @@ skills:
       - name: HTML5 & CSS
         level: 80%
 
-      - name: Salesforce
-        level: 95%
-
-      - name: Functional Programming
-        level: 85%
 
 
 
